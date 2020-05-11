@@ -6,6 +6,6 @@ If you would like to run and/or edit the code without installing any software on
 
 Once Binder has been launched, click on the `code` folder and select which notebook you want to run. (*Don't worry if takes up to a minute to launch*)
 
-### Launch Web-scraping for Social Science Research as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/web-scraping/master)<br>
+### Launch Being a Computational Social Scientist as a Binder service: [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UKDataServiceOpen/comp-soc-sci/master?filepath=code)<br>
 
-Alternatively, you can download the notebook files and run them on your own machine. See our guidance on installing Python and Jupyter [here](LINK).
+Alternatively, you can download the notebook files and run them on your own machine. See our guidance on installing Python and Jupyter [here](https://github.com/UKDataServiceOpen/new-forms-of-data/blob/master/installation.md).
